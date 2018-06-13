@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\gits\iot-service\config-service\config-service.iml" filepath="D:\gits\iot-service\config-service\config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-demo-service/department-service.iml" filepath="$PROJECT_DIR$/iot-demo-service/department-service.iml" />
+      <module fileurl="file://D:\gits\iot-service\department-service\department-service.iml" filepath="D:\gits\iot-service\department-service\department-service.iml" />
+      <module fileurl="file://D:\gits\iot-service\discovery-service\discovery-service.iml" filepath="D:\gits\iot-service\discovery-service\discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-gps-service/employee-service.iml" filepath="$PROJECT_DIR$/iot-gps-service/employee-service.iml" />
+      <module fileurl="file://D:\gits\iot-service\employee-service\employee-service.iml" filepath="D:\gits\iot-service\employee-service\employee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/iot-gateway-service/gateway-service.iml" />
+      <module fileurl="file://D:\gits\iot-service\gateway-service\gateway-service.iml" filepath="D:\gits\iot-service\gateway-service\gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-config-service/iot-config-service.iml" filepath="$PROJECT_DIR$/iot-config-service/iot-config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-demo-service/iot-demo-service.iml" filepath="$PROJECT_DIR$/iot-demo-service/iot-demo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-discovery-service/iot-discovery-service.iml" filepath="$PROJECT_DIR$/iot-discovery-service/iot-discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-gateway-service/iot-gateway-service.iml" filepath="$PROJECT_DIR$/iot-gateway-service/iot-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-gps-service/iot-gps-service.iml" filepath="$PROJECT_DIR$/iot-gps-service/iot-gps-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-organization-service/iot-organization-service.iml" filepath="$PROJECT_DIR$/iot-organization-service/iot-organization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-proxy-service/iot-proxy-service.iml" filepath="$PROJECT_DIR$/iot-proxy-service/iot-proxy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/iot-service.iml" filepath="$PROJECT_DIR$/.idea/iot-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-organization-service/organization-service.iml" filepath="$PROJECT_DIR$/iot-organization-service/organization-service.iml" />
+      <module fileurl="file://D:\gits\iot-service\organization-service\organization-service.iml" filepath="D:\gits\iot-service\organization-service\organization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iot-proxy-service/proxy-service.iml" filepath="$PROJECT_DIR$/iot-proxy-service/proxy-service.iml" />
+      <module fileurl="file://D:\gits\iot-service\proxy-service\proxy-service.iml" filepath="D:\gits\iot-service\proxy-service\proxy-service.iml" />
+    </modules>
+  </component>
+</project>
